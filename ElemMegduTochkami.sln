@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElemMegduTochkami", "ElemMegduTochkami\ElemMegduTochkami.csproj", "{62B91C5A-01EC-40E0-A652-770610A6F6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B91C5A-01EC-40E0-A652-770610A6F6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B91C5A-01EC-40E0-A652-770610A6F6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B91C5A-01EC-40E0-A652-770610A6F6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B91C5A-01EC-40E0-A652-770610A6F6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2B39DA9-1294-4E71-9FE9-461FE522F085}
+	EndGlobalSection
+EndGlobal

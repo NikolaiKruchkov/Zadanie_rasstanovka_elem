@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\ElemMegduTochkami.dll"</Assembly>		
+		<AddInId>92A8D0EA-099A-4CBD-BF11-52283A0E8BFA</AddInId>		
+		<FullClassName>ElemMegduTochkami.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Элементы между точками</Text>
+	</AddIn>
+</RevitAddIns>
